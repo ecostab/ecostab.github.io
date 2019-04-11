@@ -3,7 +3,7 @@
     <title>ECOSTAB on ECOSTAB</title>
     <link>https://ecostab.github.io/</link>
     <description>Recent content in ECOSTAB on ECOSTAB</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
@@ -168,12 +168,23 @@ complexes.&lt;/p&gt;
 
 
 
+
+
+
+
+
+
+  
+  
+
+
 &lt;div class=&#34;gallery&#34;&gt;
 
   
   
   
   
+    
     
     
     
@@ -197,9 +208,10 @@ complexes.&lt;/p&gt;
     
     
   &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ecostab.github.io/post/getting-started/gallery/theme-1950s.png&#34; data-caption=&#34;1950s&#34;&gt;
-  &lt;img src=&#34;https://ecostab.github.io/post/getting-started/gallery/theme-1950s.png&#34; alt=&#34;&#34;&gt;
+  &lt;img src=&#34;https://ecostab.github.io/post/getting-started/gallery/theme-1950s_huaf5482f8cea0c5a703a328640e3b7509_21614_0x190_resize_box_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
+    
     
     
     
@@ -223,9 +235,10 @@ complexes.&lt;/p&gt;
     
     
   &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ecostab.github.io/post/getting-started/gallery/theme-apogee.png&#34; data-caption=&#34;Apogee&#34;&gt;
-  &lt;img src=&#34;https://ecostab.github.io/post/getting-started/gallery/theme-apogee.png&#34; alt=&#34;&#34;&gt;
+  &lt;img src=&#34;https://ecostab.github.io/post/getting-started/gallery/theme-apogee_hu4b45d99db97150df01464c393bfd17d4_24119_0x190_resize_box_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
+    
     
     
     
@@ -249,9 +262,10 @@ complexes.&lt;/p&gt;
     
     
   &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ecostab.github.io/post/getting-started/gallery/theme-coffee-playfair.png&#34; data-caption=&#34;Coffee theme with Playfair font&#34;&gt;
-  &lt;img src=&#34;https://ecostab.github.io/post/getting-started/gallery/theme-coffee-playfair.png&#34; alt=&#34;&#34;&gt;
+  &lt;img src=&#34;https://ecostab.github.io/post/getting-started/gallery/theme-coffee-playfair_hu446a8f670cc5622adcc77b97ba95f6c5_22462_0x190_resize_box_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
+    
     
     
     
@@ -275,9 +289,10 @@ complexes.&lt;/p&gt;
     
     
   &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ecostab.github.io/post/getting-started/gallery/theme-cupcake.png&#34; data-caption=&#34;Cupcake&#34;&gt;
-  &lt;img src=&#34;https://ecostab.github.io/post/getting-started/gallery/theme-cupcake.png&#34; alt=&#34;&#34;&gt;
+  &lt;img src=&#34;https://ecostab.github.io/post/getting-started/gallery/theme-cupcake_hueba8cfa8cfbc7543924fcbf387a99e92_23986_0x190_resize_box_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
+    
     
     
     
@@ -301,9 +316,10 @@ complexes.&lt;/p&gt;
     
     
   &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ecostab.github.io/post/getting-started/gallery/theme-dark.png&#34; data-caption=&#34;Dark&#34;&gt;
-  &lt;img src=&#34;https://ecostab.github.io/post/getting-started/gallery/theme-dark.png&#34; alt=&#34;&#34;&gt;
+  &lt;img src=&#34;https://ecostab.github.io/post/getting-started/gallery/theme-dark_hu1e8601ecc47f58eada7743fdcd709d3d_21456_0x190_resize_box_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
+    
     
     
     
@@ -327,9 +343,10 @@ complexes.&lt;/p&gt;
     
     
   &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ecostab.github.io/post/getting-started/gallery/theme-default.png&#34; data-caption=&#34;Default&#34;&gt;
-  &lt;img src=&#34;https://ecostab.github.io/post/getting-started/gallery/theme-default.png&#34; alt=&#34;&#34;&gt;
+  &lt;img src=&#34;https://ecostab.github.io/post/getting-started/gallery/theme-default_huba6228b7bdf30e2f03f12ea91b2cba0d_21751_0x190_resize_box_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
+    
     
     
     
@@ -353,9 +370,10 @@ complexes.&lt;/p&gt;
     
     
   &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ecostab.github.io/post/getting-started/gallery/theme-forest.png&#34; data-caption=&#34;Forest&#34;&gt;
-  &lt;img src=&#34;https://ecostab.github.io/post/getting-started/gallery/theme-forest.png&#34; alt=&#34;&#34;&gt;
+  &lt;img src=&#34;https://ecostab.github.io/post/getting-started/gallery/theme-forest_hu4f093a1c683134431456584193ea41ee_21797_0x190_resize_box_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
+    
     
     
     
@@ -379,7 +397,7 @@ complexes.&lt;/p&gt;
     
     
   &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ecostab.github.io/post/getting-started/gallery/theme-ocean.png&#34; data-caption=&#34;Ocean&#34;&gt;
-  &lt;img src=&#34;https://ecostab.github.io/post/getting-started/gallery/theme-ocean.png&#34; alt=&#34;&#34;&gt;
+  &lt;img src=&#34;https://ecostab.github.io/post/getting-started/gallery/theme-ocean_hu14831ccafc2219f30a7a096fa7617e01_21760_0x190_resize_box_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
 
@@ -491,6 +509,42 @@ git submodule update --init --recursive
 
 &lt;p&gt;Released under the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md&#34; target=&#34;_blank&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ecostab.github.io/author/alain/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecostab.github.io/author/alain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ecostab.github.io/author/colin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecostab.github.io/author/colin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ecostab.github.io/author/elisa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecostab.github.io/author/elisa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ecostab.github.io/author/maud/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecostab.github.io/author/maud/</guid>
+      <description></description>
     </item>
     
   </channel>
