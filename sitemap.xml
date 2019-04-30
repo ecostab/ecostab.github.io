@@ -3,14 +3,14 @@
     <url>
     
       <loc>https://ecostab.github.io/</loc>
-      <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+      <lastmod>2019-01-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
   
     <url>
     
-      <loc>https://ecostab.github.io/docs/</loc>
-      <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+      <loc>https://ecostab.github.io/people2/</loc>
+      <lastmod>2019-01-01T00:00:00+01:00</lastmod>
     </url>
   
     <url>
@@ -22,6 +22,12 @@
     <url>
     
       <loc>https://ecostab.github.io/docs/example/</loc>
+      <lastmod>2018-09-09T00:00:00+02:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://ecostab.github.io/docs/</loc>
       <lastmod>2018-09-09T00:00:00+02:00</lastmod>
     </url>
   
@@ -40,15 +46,21 @@
   
     <url>
     
-      <loc>https://ecostab.github.io/talk/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+      <loc>https://ecostab.github.io/tags/</loc>
+      <lastmod>2018-01-13T00:00:00+01:00</lastmod>
+      <priority>0</priority>
     </url>
   
     <url>
     
-      <loc>https://ecostab.github.io/tags/</loc>
-      <lastmod>2018-01-13T00:00:00+01:00</lastmod>
-      <priority>0</priority>
+      <loc>https://ecostab.github.io/post/</loc>
+      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://ecostab.github.io/talk/</loc>
+      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
     </url>
   
     <url>
@@ -112,13 +124,22 @@
   
     <url>
     
-      <loc>https://ecostab.github.io/post/</loc>
-      <lastmod>2018-01-13T00:00:00+01:00</lastmod>
+      <loc>https://ecostab.github.io/author/alain/</loc>
     </url>
   
     <url>
     
-      <loc>https://ecostab.github.io/author/alain/</loc>
+      <loc>https://ecostab.github.io/author/alexis/</loc>
+    </url>
+  
+    <url>
+    
+      <loc>https://ecostab.github.io/author/beatriz/</loc>
+    </url>
+  
+    <url>
+    
+      <loc>https://ecostab.github.io/author/benoit/</loc>
     </url>
   
     <url>
@@ -133,7 +154,52 @@
   
     <url>
     
+      <loc>https://ecostab.github.io/author/eric/</loc>
+    </url>
+  
+    <url>
+    
+      <loc>https://ecostab.github.io/author/gerard/</loc>
+    </url>
+  
+    <url>
+    
+      <loc>https://ecostab.github.io/author/jacques/</loc>
+    </url>
+  
+    <url>
+    
+      <loc>https://ecostab.github.io/author/jerome/</loc>
+    </url>
+  
+    <url>
+    
+      <loc>https://ecostab.github.io/author/laurene/</loc>
+    </url>
+  
+    <url>
+    
       <loc>https://ecostab.github.io/author/maud/</loc>
+    </url>
+  
+    <url>
+    
+      <loc>https://ecostab.github.io/author/romane/</loc>
+    </url>
+  
+    <url>
+    
+      <loc>https://ecostab.github.io/author/sandrine/</loc>
+    </url>
+  
+    <url>
+    
+      <loc>https://ecostab.github.io/author/sarah/</loc>
+    </url>
+  
+    <url>
+    
+      <loc>https://ecostab.github.io/author/simon/</loc>
     </url>
   
     <url>

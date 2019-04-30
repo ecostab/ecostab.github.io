@@ -6,8 +6,17 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0100</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Landing Page</title>
+      <link>https://ecostab.github.io/people2/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://ecostab.github.io/people2/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>R Markdown Page</title>
@@ -522,6 +531,33 @@ git submodule update --init --recursive
     
     <item>
       <title></title>
+      <link>https://ecostab.github.io/author/alexis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecostab.github.io/author/alexis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ecostab.github.io/author/beatriz/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecostab.github.io/author/beatriz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ecostab.github.io/author/benoit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecostab.github.io/author/benoit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://ecostab.github.io/author/colin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -540,10 +576,10 @@ git submodule update --init --recursive
     
     <item>
       <title></title>
-      <link>https://ecostab.github.io/author/maud/</link>
+      <link>https://ecostab.github.io/author/eric/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ecostab.github.io/author/maud/</guid>
+      <guid>https://ecostab.github.io/author/eric/</guid>
       <description></description>
     </item>
     
